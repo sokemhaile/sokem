@@ -1,0 +1,2 @@
+# sokem
+my startup company
